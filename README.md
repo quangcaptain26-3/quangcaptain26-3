@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there! I'm @quangcaptain26-3 👨‍💻</h1>
+[<h1 align="center">🚀 Hey there! I'm @quangcaptain26-3 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer+in+the+making;Always+curious+%F0%9F%8C%9F;Lover+of+clean+code+%F0%9F%93%88;Let’s+build+something+awesome!&center=true&width=500&height=45">
@@ -31,8 +31,8 @@ Looking to team up on:
 ---
 
 ### 📫 Reach Me
-- 📧 Email: `youremail@example.com`
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 Email: `phamminhquang2603@gmail.com`
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/minhquang2604/)
 - 🧠 Personal Portfolio: [Coming Soon...]
 
 ---
