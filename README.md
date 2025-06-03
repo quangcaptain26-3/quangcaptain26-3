@@ -1,5 +1,9 @@
 # Hi there, I'm Phạm Minh Quang 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Network+Communications+Student;English+Teaching+Assistant;Full+Stack+Developer;IoT+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=quangpham&color=brightgreen)
 
 ## 🎓 About Me
@@ -76,16 +80,14 @@ When I'm not coding, you can find me:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quangpham&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quangpham&theme=radical&hide_border=true)
-
 </div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhquang2604/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quangcaptain26-3)
 
 ---
 
@@ -101,6 +103,18 @@ When I'm not coding, you can find me:
 <div align="center">
   
 **"Code, Learn, Grow, Repeat"** 🔄
+
+---
+
+## 💭 Inspiration
+
+> *"Innovation distinguishes between a leader and a follower."*  
+> — **Steve Jobs**
+
+> *"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing."*  
+> — **Sergio Ramos**
+
+---
 
 *Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any exciting projects!* 🚀
 
