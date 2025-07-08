@@ -46,9 +46,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=2000&color=9D4EDD&center=true&vCenter=true&width=600&lines=🎓+Computer+Networking+%26+Communications;📚+Information+Technology+Faculty;🏛️+Vietnam+Maritime+University" alt="Education Info" />
-</div>
+
 
 ### 🎯 Academic Journey
 
