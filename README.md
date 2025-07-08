@@ -17,30 +17,114 @@
 </div>
 
 ---
-
 ## 🧑‍🎓 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=✨+Welcome+to+My+Galaxy+✨;🌌+Exploring+the+Digital+Universe+🌌;🚀+Coding+Among+the+Stars+🚀" alt="Galaxy Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:240,50,240,100:20,20,60&height=100&section=header&text=Personal%20Galaxy&fontSize=30&fontColor=fff&animation=blinking"/>
 </div>
 
 ### 🌟 Personal Information
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/👤-Full%20Name-9D4EDD?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <strong>Phạm Minh Quang</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🌐-English%20Name-00D4AA?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <strong>Marcus Phạm</strong>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🇨🇳-Chinese%20Name-FF6B6B?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <strong>范明光</strong>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=2000&color=9D4EDD&center=true&vCenter=true&width=600&lines=🎓+Computer+Networking+%26+Communications;📚+Information+Technology+Faculty;🏛️+Vietnam+Maritime+University" alt="Education Info" />
+</div>
+
+### 🎯 Academic Journey
+
+```ascii
+    ╔════════════════════════════════════════════════════════════╗
+    ║  🏫 MAJOR: Computer Networking & Communications            ║
+    ║  🎓 FACULTY: Information Technology                        ║
+    ║  🏛️ UNIVERSITY: Vietnam Maritime University                ║
+    ║  🔭 STATUS: Final-year student                            ║
+    ║  📊 FOCUS: Network protocols, system administration       ║
+    ║  💡 GOAL: Become a Network Security Specialist           ║
+    ╚════════════════════════════════════════════════════════════╝
 ```
-    ╔═══════════════════════════════════╗
-    ║  👤 Full Name: Phạm Minh Quang    ║
-    ║  🌐 English Name: Marcus Phạm     ║
-    ║  🇨🇳 Chinese Name: 范明光         ║
-    ║  🏫 Major: Computer Networking    ║
-    ║  🎓 Faculty: Information Tech     ║
-    ║  🏛️ University: Vietnam Maritime  ║
-    ║  🔭 Status: Final-year student    ║
-    ║  🔥 Zodiac: Aries ♈ - Bold       ║
-    ║  ❤️‍🔥 Girlfriend: Sunny Vũ 🌞     ║
-    ║  ⚽ Hobby: Football - Courtois    ║
-    ║  🌍 Personality: Extrovert        ║
-    ║  📚 Teaching: English             ║
-    ║  🈶 Learning: IELTS | HSK 2       ║
-    ╚═══════════════════════════════════╝
+
+### 🌍 Personal Traits
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🔥-Aries%20♈-FF4500?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <sub><strong>Passionate & Bold</strong></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/❤️‍🔥-Sunny%20Vũ-FF69B4?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <sub><strong>My Sunshine 🌞</strong></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/⚽-Football-32CD32?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <sub><strong>Courtois Fan</strong></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/🌍-Extrovert-FFD700?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <sub><strong>Dynamic & Expressive</strong></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📚 Current Activities
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📚-Teaching%20English-4CAF50?style=for-the-badge&logo=book&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏆-IELTS%20Certified-FF9800?style=for-the-badge&logo=certificate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🈶-HSK%202%20Level-E91E63?style=for-the-badge&logo=language&logoColor=white"/>
+</div>
+
+### 🎨 Personality Spectrum
+
+<div align="center">
+
+**Extrovert** ████████████████████████████████████████ 100%
+
+**Dynamic** ████████████████████████████████████████ 100%
+
+**Expressive** ████████████████████████████████████████ 100%
+
+**Tech-Savvy** ████████████████████████████████████████ 100%
+
+**Team Player** ████████████████████████████████████████ 100%
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:00D4AA,100:FF6B6B&height=80&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <h4>🌌 "In the constellation of life, every connection matters" 🌌</h4>
+</div>
+
 ```
 
 <div align="center">
