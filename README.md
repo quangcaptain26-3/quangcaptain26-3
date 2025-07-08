@@ -1,123 +1,207 @@
-# Hi there, I'm Phạm Minh Quang 👋
+# <div align="center">👋 Xin chào, tôi là Marcus Phạm</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Network+Communications+Student;English+Teaching+Assistant;Full+Stack+Developer;IoT+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Passionate+Developer+%7C+网络通信专家+%7C+Lập+trình+viên+đam+mê;💻+Network+Communication+%7C+Full-stack+Developer+%7C+AI+Enthusiast;🚀+Innovation+Seeker+%7C+创新者+%7C+Người+sáng+tạo+công+nghệ" alt="Typing SVG" />
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=quangpham&color=brightgreen)
+---
 
-## 🎓 About Me
+## 🎯 Thông tin cá nhân | Personal Information | 个人信息
 
-**Network Communications Student | Teaching Assistant | Tech Enthusiast**
+<table>
+<tr>
+<td width="50%">
 
-- 🎓 Studying **Network Communications** at **Vietnam Maritime University**
-- 🌟 **Aries** ♈ - Always energetic and passionate about technology
-- 👨‍🏫 Currently working as an **English Teaching Assistant**
-- 🏆 **Pegatron Scholarship** recipient
-- 📜 Certified with **IELTS** and **HSK** (Chinese proficiency)
+**🇻🇳 Tiếng Việt:**
+- 📛 **Tên:** Phạm Minh Quang
+- 🎓 **Chuyên ngành:** Truyền thông mạng máy tính
+- 🏫 **Trường:** ĐH Hàng Hải Việt Nam
+- 📍 **Khoa:** Công nghệ thông tin
+- 🌟 **Cung hoàng đạo:** Bạch Dương ♈
+- 💝 **Tình trạng:** Có người yêu (Sunny Vũ)
+
+</td>
+<td width="50%">
+
+**🇺🇸 English:**
+- 📛 **Name:** Marcus Phạm
+- 🎓 **Major:** Network Communication
+- 🏫 **University:** Vietnam Maritime University
+- 📍 **Faculty:** Information Technology
+- ⚽ **Idol:** Thibaut Courtois
+- 🌐 **Languages:** IELTS certified, HSK 2 (Chinese)
+
+</td>
+</tr>
+</table>
+
+**🇨🇳 中文:** 范明光 | 网络通信专业 | 越南海事大学信息技术学院
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Ngôn ngữ lập trình | Programming Languages
 
-### 💻 Programming Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ES6](https://img.shields.io/badge/-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-### 🎨 UI/UX & Styling
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-### 📚 Currently Learning
-- **Java Spring Boot** ☕
-- **IoT Development** 🌐
+</div>
 
 ---
 
-## 🤖 AI Tools I Love
+## 🛠️ Frameworks & Libraries
 
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/-Claude%20AI-000000?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Windsurf](https://img.shields.io/badge/-Windsurf-FF6B6B?style=flat-square)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+<div align="center">
+
+### Frontend Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### UI Libraries
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+### Build Tools
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ⭐ **Special Love**
+
+</div>
 
 ---
 
-## 🛠️ Development Environment
+## 💻 IDE & Development Tools
 
-**IDE Preference:** JetBrains Suite 💎
-- IntelliJ IDEA
-- WebStorm
-- DataGrip
-- And more JetBrains magic ✨
+<div align="center">
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Hobbies & Interests
+## 🤖 AI Tools & Assistants
 
-When I'm not coding, you can find me:
+<div align="center">
 
-- ⚽ **Playing Football** - My favorite sport!
-- 💪 **Hitting the Gym** - Staying fit and strong
-- 🚴‍♂️ **Cycling** - Exploring the world on two wheels
-- 🎵 **Listening to Rap Music** - Beats that fuel my coding sessions
-- 💻 **Coding Side Projects** - Always building something new
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-4A90E2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-1DA1F2?style=for-the-badge&logo=x&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Programming Languages Usage
+
+```mermaid
+pie title Most Used Programming Languages
+    "JavaScript/TypeScript" : 35
+    "C#" : 25
+    "PHP" : 20
+    "C/C++" : 15
+    "SQL" : 5
+```
+
+---
+
+## 📈 Commit Activity
+
+```mermaid
+gitgraph
+    commit id: "Initial commit"
+    commit id: "Add React components"
+    commit id: "Implement API endpoints"
+    branch feature/ui-update
+    commit id: "Update UI components"
+    commit id: "Add Tailwind styling"
+    checkout main
+    merge feature/ui-update
+    commit id: "Deploy to production"
+    commit id: "Bug fixes"
+    commit id: "Performance optimization"
+```
+
+---
+
+## 🏆 Achievements & Skills
+
+<div align="center">
+
+### 🌐 Languages
+![IELTS](https://img.shields.io/badge/IELTS-Certified-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+![HSK 2](https://img.shields.io/badge/HSK%202-Learning-yellow?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+
+### 💼 Current Role
+![English Teacher](https://img.shields.io/badge/English-Teacher-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+
+</div>
+
+---
+
+## ⚽ Interests & Hobbies
+
+<div align="center">
+
+🌟 **Extrovert** • ⚽ **Football Fan** • 🥅 **Courtois Supporter** • 🌍 **Travel Enthusiast** • 💕 **In Love with Sunny Vũ**
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcuspham)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcuspham)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuspham@example.com)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Quang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangpham&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quangpham&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=marcuspham&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcuspham&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhquang2604/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quangcaptain26-3)
-
----
-
-## 🎯 Current Focus
-
-- 🌱 Deepening my knowledge in **Java Spring Boot**
-- 🔥 Exploring **IoT** possibilities and applications
-- 🎓 Balancing studies with teaching and personal projects
-- 💼 Building my professional network and skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspham&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 <div align="center">
   
-**"Code, Learn, Grow, Repeat"** 🔄
-
----
-
-## 💭 Inspiration
-
-> *"Innovation distinguishes between a leader and a follower."*  
-> — **Steve Jobs**
-
-> *"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing."*  
-> — **Sergio Ramos**
-
----
-
-*Thanks for visiting my profile! Feel free to reach out if you want to collaborate on any exciting projects!* 🚀
-
-⭐ **Don't forget to star my repositories if you find them interesting!** ⭐
-
+  ### 💭 Inspiration
+  
+  *"Innovation distinguishes between a leader and a follower."*
+  
+  **— Steve Jobs**
+  
+  ---
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=marcuspham&color=blueviolet&style=for-the-badge)
+  
+  **✨ Made with ❤️ by Marcus Phạm | 范明光 ✨**
+  
 </div>
