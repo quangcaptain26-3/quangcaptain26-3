@@ -213,6 +213,5 @@
 
 <div align="center">
   <h3>🌌 "In the constellation of life, every connection matters" 🌌</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240,50,240,100:20,20,60&height=120&section=footer"/>
 </div>
 
