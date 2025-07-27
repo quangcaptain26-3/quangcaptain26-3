@@ -1,9 +1,4 @@
 # Hi, I'm Marcus Phạm (范明光) 👋
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240,50,240,100:20,20,60&height=150&section=header&text=Marcus%20Phạm&fontSize=40&fontColor=fff&animation=fadeIn"/>
-</div>
-
 <div align="center">
   <h3>🌌 Final-year Computer Networking & Communications Student 🌌</h3>
   <p>
@@ -17,12 +12,6 @@
 </div>
 
 ---
-
-## 🧑‍🎓 About Me
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:240,50,240,100:20,20,60&height=100&section=header&text=Personal%20Galaxy&fontSize=30&fontColor=fff&animation=blinking"/>
-</div>
 
 ### 🌟 Personal Information
 
@@ -223,14 +212,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:00D4AA,100:FF6B6B&height=80&section=footer"/>
-</div>
-
-<div align="center">
   <h3>🌌 "In the constellation of life, every connection matters" 🌌</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240,50,240,100:20,20,60&height=120&section=footer"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=quangcaptain26-3&label=Profile%20Views&color=9D4EDD&style=for-the-badge"/>
-</div>
