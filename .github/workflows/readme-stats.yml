@@ -1,0 +1,63 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=9D4EDD&icon_color=00D4AA&text_color=C9D1D9&bg_color=0D1117
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&title_color=9D4EDD&text_color=C9D1D9&bg_color=0D1117
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark#9D4EDD
+
+      - name: Download streak stats
+        run: |
+          mkdir -p assets
+          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=00D4AA&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD&sideNums=C9D1D9" -o assets/streak.svg
+
+      - name: Download activity graph
+        run: |
+          curl -fsSL "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=0D1117&color=9D4EDD&line=00D4AA&point=9D4EDD&area=true&hide_border=true&custom_title=Contribution%20Graph" -o assets/activity-graph.svg
+
+      - name: Download profile summary
+        run: |
+          curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=2077" -o assets/profile-summary.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet && echo "No changes" || (git commit -m "chore: update README stats [skip ci]" && git push)
