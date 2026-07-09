@@ -21,7 +21,7 @@
   <rect width="900" height="200" rx="12" fill="url(#bg)"/>
   <rect x="24" y="24" width="852" height="152" rx="8" fill="none" stroke="#00D4AA" stroke-width="1.5" opacity="0.6"/>
   <line x1="80" y1="175" x2="820" y2="175" stroke="url(#line)" stroke-width="2"/>
-  <text x="450" y="78" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle" filter="url(#glow)">MARCUS PH M</text>
-  <text x="450" y="112" fill="#00D4AA" font-family="Segoe UI, Arial, sans-serif" font-size="22" text-anchor="middle">I</text>
+  <text x="450" y="78" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle" filter="url(#glow)">MARCUS PH&#7840;M</text>
+  <text x="450" y="112" fill="#00D4AA" font-family="Segoe UI, Arial, sans-serif" font-size="22" text-anchor="middle">&#33539;&#26126;&#20809;</text>
   <text x="450" y="148" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">Communication Engineering &amp; Computer Networks</text>
 </svg>
