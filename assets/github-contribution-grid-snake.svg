@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <rect width="1200" height="120" fill="#0D1117"/>
+  <text x="600" y="58" fill="#9D4EDD" font-family="Segoe UI, sans-serif" font-size="22" font-weight="600" text-anchor="middle">Contribution Snake</text>
+  <text x="600" y="88" fill="#00D4AA" font-family="Segoe UI, sans-serif" font-size="14" text-anchor="middle">Run GitHub Actions workflow to generate</text>
+</svg>
