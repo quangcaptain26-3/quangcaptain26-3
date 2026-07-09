@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=620&lines=Marcus+Ph%E1%BA%A1m;范明光;Networks+%26+Software;Always+Learning" alt="Typing intro" />
+![Tagline](./assets/typing-tagline.svg)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9D4EDD,40:6B21A8,100:0D1117&height=220&section=header&text=MARCUS%20PH%E1%BA%A0M&fontSize=48&fontColor=ffffff&stroke=00D4AA&strokeWidth=2&animation=twinkling&desc=Communication%20Engineering%20%26%20Computer%20Networks&descAlignY=67&descSize=15&descAlign=50" alt="Header banner" />
+[![Header](./assets/header-banner.svg)](https://github.com/quangcaptain26-3)
 
 <br/>
 
@@ -15,12 +15,16 @@
   <img src="https://img.shields.io/badge/Location-Vietnam-0D1117?style=for-the-badge&labelColor=9D4EDD" alt="Location" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=quangcaptain26-3&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+![Profile views](https://komarev.com/ghpvc/?username=quangcaptain26-3&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <!-- ─── ABOUT ─── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9D4EDD,100:0D1117&height=48&section=header&text=%3C%20ABOUT%20%3E&fontSize=22&fontColor=00D4AA&stroke=9D4EDD&strokeWidth=1.5&animation=fadeIn" width="100%" alt="About section" />
+<div align="center">
+
+![About](./assets/section-about.svg)
+
+</div>
 
 <div align="center">
 
@@ -46,7 +50,11 @@ Hi, I'm **Marcus Phạm** (范明光), a graduate of **Communication Engineering
 </div>
 
 <!-- ─── TECH STACK ─── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4AA,100:0D1117&height=48&section=header&text=%3C%20TECH%20STACK%20%3E&fontSize=22&fontColor=9D4EDD&stroke=00D4AA&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Tech section" />
+<div align="center">
+
+![Tech Stack](./assets/section-tech.svg)
+
+</div>
 
 <div align="center">
 
@@ -93,7 +101,11 @@ Hi, I'm **Marcus Phạm** (范明光), a graduate of **Communication Engineering
 </p>
 
 <!-- ─── GITHUB ACTIVITY ─── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9D4EDD,100:0D1117&height=48&section=header&text=%3C%20GITHUB%20ACTIVITY%20%3E&fontSize=22&fontColor=00D4AA&stroke=9D4EDD&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Activity section" />
+<div align="center">
+
+![GitHub Activity](./assets/section-activity.svg)
+
+</div>
 
 <div align="center">
 
@@ -116,7 +128,11 @@ Hi, I'm **Marcus Phạm** (范明光), a graduate of **Communication Engineering
 </div>
 
 <!-- ─── CONNECT ─── -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4AA,100:0D1117&height=48&section=header&text=%3C%20CONNECT%20%3E&fontSize=22&fontColor=9D4EDD&stroke=00D4AA&strokeWidth=1.5&animation=fadeIn" width="100%" alt="Connect section" />
+<div align="center">
+
+![Connect](./assets/section-connect.svg)
+
+</div>
 
 <div align="center">
 
@@ -130,6 +146,6 @@ Hi, I'm **Marcus Phạm** (范明光), a graduate of **Communication Engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6B21A8,100:9D4EDD&height=100&section=footer&text=Always%20learning%2C%20always%20growing.&fontSize=18&fontColor=ffffff&animation=twinkling&stroke=00D4AA&strokeWidth=1" width="100%" alt="Footer" />
+![Footer](./assets/footer-banner.svg)
 
 </div>
