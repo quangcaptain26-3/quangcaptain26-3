@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9D4EDD"/>
+      <stop offset="50%" stop-color="#6B21A8"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4AA" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00D4AA"/>
+      <stop offset="100%" stop-color="#00D4AA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="200" rx="12" fill="url(#bg)"/>
+  <rect x="24" y="24" width="852" height="152" rx="8" fill="none" stroke="#00D4AA" stroke-width="1.5" opacity="0.6"/>
+  <line x1="80" y1="175" x2="820" y2="175" stroke="url(#line)" stroke-width="2"/>
+  <text x="450" y="78" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle" filter="url(#glow)">MARCUS PH M</text>
+  <text x="450" y="112" fill="#00D4AA" font-family="Segoe UI, Arial, sans-serif" font-size="22" text-anchor="middle">I</text>
+  <text x="450" y="148" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="15" text-anchor="middle">Communication Engineering &amp; Computer Networks</text>
+</svg>

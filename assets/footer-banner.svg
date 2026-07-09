@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#6B21A8"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="72" rx="10" fill="url(#bg)"/>
+  <text x="450" y="43" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-style="italic" text-anchor="middle">Always learning, always growing.</text>
+</svg>

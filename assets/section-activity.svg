@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="20%" stop-color="#9D4EDD"/>
+      <stop offset="80%" stop-color="#9D4EDD"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="52" rx="6" fill="#0D1117"/>
+  <rect x="0" y="24" width="900" height="4" fill="url(#g)" opacity="0.8"/>
+  <text x="450" y="33" fill="#00D4AA" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="2">GITHUB ACTIVITY</text>
+</svg>
